@@ -1,5 +1,5 @@
 # adobeHackathon
-Overview
+# Overview
 This Jupyter Notebook processes a dataset of coordinates to visualize them and applies image processing techniques to detect and straighten shapes in an image.
 
 Steps:
