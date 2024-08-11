@@ -16,10 +16,12 @@ Two images are generated: one with the corrected shapes (overdrawn contours) and
 
 ### Environment Setup:
 Ensure you have the required Python packages installed:
-pandas
-matplotlib
-opencv-python
-numpy
+<ol>
+  <li>pandas</li>
+  <li>matplotlib</li>
+  <li>opencv-python</li>
+  <li>numpy</li>
+</ol>
 
 ### Running the Notebook:
 Load the notebook in Jupyter or a compatible environment.
